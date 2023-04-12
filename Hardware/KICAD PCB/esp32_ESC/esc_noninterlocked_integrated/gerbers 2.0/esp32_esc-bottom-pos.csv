@@ -1,0 +1,40 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C7","100n","Dual Capacitor SMD 0603 and 0805_HandSolder",-104.392000,-70.887500,-90.000000,bottom
+"C8","100n","Dual Capacitor SMD 0603 and 0805_HandSolder",-83.439000,-98.933000,0.000000,bottom
+"C9","100n","Dual Capacitor SMD 0603 and 0805_HandSolder",-67.816000,-70.887500,-90.000000,bottom
+"C15","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-61.595000,-48.260000,-90.000000,bottom
+"C16","100n","Dual Capacitor SMD 0603 and 0805_HandSolder",-91.184000,-71.141500,-90.000000,bottom
+"C17","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-56.515000,-48.260000,-90.000000,bottom
+"C18","100n","Dual Capacitor SMD 0603 and 0805_HandSolder",-99.467500,-98.806000,0.000000,bottom
+"C19","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-51.435000,-48.260000,-90.000000,bottom
+"C21","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-67.310000,-48.260000,-90.000000,bottom
+"C24","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-50.800000,-57.785000,180.000000,bottom
+"C25","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-50.800000,-62.865000,180.000000,bottom
+"C27","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-47.625000,-65.278000,180.000000,bottom
+"C30","100n","Dual Capacitor SMD 0603 and 0805_HandSolder",-75.436000,-71.395500,-90.000000,bottom
+"C36","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-50.800000,-60.325000,180.000000,bottom
+"C37","100n","Dual Capacitor SMD 0603 and 0805_HandSolder",-57.890500,-60.450000,180.000000,bottom
+"L1","4u","L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3_BigPads",-45.212000,-98.558000,180.000000,bottom
+"Q1","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-73.660000,-95.590000,0.000000,bottom
+"Q2","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-53.340000,-103.505000,0.000000,bottom
+"Q3","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-78.740000,-108.880000,180.000000,bottom
+"Q4","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-66.675000,-108.880000,180.000000,bottom
+"Q5","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-88.900000,-95.590000,0.000000,bottom
+"Q6","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-93.980000,-108.880000,180.000000,bottom
+"Q8","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-104.140000,-95.590000,0.000000,bottom
+"Q9","IRF3710","TO-220-3_Horizontal_TabUp_NoHoleClearance",-109.220000,-108.880000,180.000000,bottom
+"R2","1k","R_0805_2012Metric",-63.500000,-38.735000,180.000000,bottom
+"R3","1k","R_0805_2012Metric",-60.960000,-41.910000,180.000000,bottom
+"R4","2k","R_0805_2012Metric",-57.324000,-41.910000,0.000000,bottom
+"R5","2k","R_0805_2012Metric",-59.944000,-38.735000,0.000000,bottom
+"R9","40","R_0805_2012Metric",-67.310000,-84.097500,-90.000000,bottom
+"R11","40","R_0805_2012Metric",-63.500000,-84.097500,-90.000000,bottom
+"R12","1k","R_0805_2012Metric",-63.950000,-44.450000,180.000000,bottom
+"R13","2k","R_0805_2012Metric",-67.310000,-44.450000,180.000000,bottom
+"R15","200k","R_0805_2012Metric",-53.340000,-81.280000,-90.000000,bottom
+"R16","1k","R_0805_2012Metric",-67.818000,-39.878000,180.000000,bottom
+"R17","100k","R_0805_2012Metric",-41.910000,-81.682500,-90.000000,bottom
+"R18","10k","R_0805_2012Metric",-53.340000,-77.827500,-90.000000,bottom
+"R20","2k","R_0805_2012Metric",-67.818000,-37.846000,0.000000,bottom
+"R21","10k","R_0805_2012Metric",-41.910000,-77.872500,-90.000000,bottom
+"R27","10m","R_0805_2012Metric",-118.618000,-75.946000,90.000000,bottom

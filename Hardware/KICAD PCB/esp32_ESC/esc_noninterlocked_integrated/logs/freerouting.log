@@ -1,0 +1,24 @@
+2022-12-24 15:59:33.100 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2022-12-24 15:59:33.126 [main] INFO  Opening 'C:\Users\Thomas\Documents\KiCad\Projects\esc_noninterlocked_integrated\esc_noninterlocked_integrated\freerouting.dsn'...
+2022-12-24 15:59:33.631 [main] WARN  Structure.read_layer_scope: unknown layer type 'jumper'
+2022-12-24 15:59:33.635 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.638 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.640 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.642 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.643 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.644 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.645 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.646 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.647 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.648 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.649 [main] WARN  Shape.read_polygon_scope: layer name 'F.Cu' not found in layer structure 
+2022-12-24 15:59:33.683 [main] ERROR There was an error while reading DSN file.
+java.lang.NullPointerException: Cannot read field "shape_list" because "plane_info.area" is null
+	at app.freerouting.designforms.specctra.Structure.read_scope(Structure.java:933) ~[freerouting-1.6.2.jar:unspecified]
+	at app.freerouting.designforms.specctra.ScopeKeyword.read_scope(ScopeKeyword.java:62) ~[freerouting-1.6.2.jar:unspecified]
+	at app.freerouting.designforms.specctra.DsnFile.read(DsnFile.java:51) ~[freerouting-1.6.2.jar:unspecified]
+	at app.freerouting.interactive.BoardHandling.import_design(BoardHandling.java:819) ~[freerouting-1.6.2.jar:unspecified]
+	at app.freerouting.gui.BoardFrame.read(BoardFrame.java:230) ~[freerouting-1.6.2.jar:unspecified]
+	at app.freerouting.gui.MainApplication.create_board_frame(MainApplication.java:407) ~[freerouting-1.6.2.jar:unspecified]
+	at app.freerouting.gui.MainApplication.main(MainApplication.java:261) ~[freerouting-1.6.2.jar:unspecified]
+2022-12-24 15:59:33.711 [main] WARN  Couldn't create window frame

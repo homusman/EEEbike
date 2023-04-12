@@ -1,0 +1,58 @@
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 326:Plugin executed on: 'win32'
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 327:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 328:KiCad build version: (6.0.7)
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 329:Plugin version: 1.2.7
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 330:Frame repr: <wx._core.Frame object at 0x0000012ADFC9B550>
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 354:Preparing replicator with Q15 as a reference
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:getting a list of all footprints on board
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 402:source anchor footprint is 'Q15'
+Located on: ['3V3to5V5']
+With filenames: ['levelShift_3V3-5.kicad_sch']
+With sheet_id:['3V3to5V5']
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 409:Corresponding footprints are 
+[('Q20', ['3V3to5V9']), ('Q19', ['3V3to5V10']), ('Q11', ['3V3to5V1']), ('Q13', ['3V3to5V3']), ('Q10', ['3V3to5V']), ('Q14', ['3V3to5V4']), ('Q12', ['3V3to5V2']), ('Q15', ['3V3to5V5']), ('Q17', ['3V3to5V7']), ('Q18', ['3V3to5V8']), ('Q16', ['3V3to5V6'])]
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 421:Showing dialog
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:constructing a list of sheets suitable for replication on level:'3V3to5V5', file:'levelShift_3V3-5.kicad_sch'
+12-24 23:55:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 395:suitable sheets are:[['3V3to5V'], ['3V3to5V1'], ['3V3to5V10'], ['3V3to5V2'], ['3V3to5V3'], ['3V3to5V4'], ['3V3to5V6'], ['3V3to5V7'], ['3V3to5V8'], ['3V3to5V9']]
+12-24 23:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1322:Level selected: ['3V3to5V5']
+12-24 23:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1157:Filtering list of tracks
+12-24 23:55:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 427:Toolbar position: wx.Point(2220, 304)
+12-24 23:55:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 432:Dialog position: wx.Point(1856, 304)
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:constructing a list of sheets suitable for replication on level:'3V3to5V5', file:'levelShift_3V3-5.kicad_sch'
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 395:suitable sheets are:[['3V3to5V'], ['3V3to5V1'], ['3V3to5V10'], ['3V3to5V2'], ['3V3to5V3'], ['3V3to5V4'], ['3V3to5V6'], ['3V3to5V7'], ['3V3to5V8'], ['3V3to5V9']]
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 188:Replicating layout
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 204:Starting replication of sheets: [['3V3to5V10'], ['3V3to5V9']]
+on level: ['3V3to5V5']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+12-24 23:55:27 root 266:updating GUI message: 'Preparing for replication'
+12-24 23:55:27 root 271:updating GUI with: 0
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 274:Getting the list of source footprints
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting the list of all the remaining footprints
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 291:Getting source tracks
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1157:Filtering list of tracks
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 295:Getting source zones
+12-24 23:55:27 root 271:updating GUI with: 50
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 299:Getting source text items
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 303:Getting source drawing items
+12-24 23:55:27 root 266:updating GUI message: 'Replicating footprints'
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 709:Replicating footprints
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['3V3to5V10']
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['3V3to5V9']
+12-24 23:55:27 root 266:updating GUI message: 'Replicating tracks'
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 875:Replicating tracks
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['3V3to5V10']
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['3V3to5V9']
+12-24 23:55:27 root 271:updating GUI with: 53
+12-24 23:55:27 root 266:updating GUI message: 'Replicating zones'
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 935:Replicating zones
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['3V3to5V10']
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['3V3to5V9']
+12-24 23:55:27 root 266:updating GUI message: 'Replicating text'
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1013:Replicating text
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['3V3to5V10']
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['3V3to5V9']
+12-24 23:55:27 root 266:updating GUI message: 'Replicating drawings'
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating drawings
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['3V3to5V10']
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['3V3to5V9']
+12-24 23:55:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 204:Replication complete

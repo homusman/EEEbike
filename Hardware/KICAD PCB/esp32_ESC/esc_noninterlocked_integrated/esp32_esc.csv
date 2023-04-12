@@ -1,0 +1,63 @@
+Comment,Designator,Footprint,LCSC
+100n,"C1,C2,C6,C7,C8,C9,C16,C18,C30,C35,C37",Capacitor_SMD:Dual Capacitor SMD 0603 and 0805_HandSolder, C57112 
+390n,"C10,C11,C20,C32",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+100n,"C12,C13,C15,C17,C19,C21,C24,C25,C26,C27,C31,C36,C40,C41,C42",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C49678
+20n,C22,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+1u,C23,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C28323
+1nf,C29,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C46653
+300u,C3,Capacitor_THT:CP_Radial_D10.0mm_P7.50mm,
+22u,"C33,C34,C38,C39",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C45783
+300u,"C4,C5,C14,C28,C43",Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,
+RS1M,"D1,D2,D3,D4",Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder,C14996
+SS14,"D5,D6,D9",Diode_SMD:D_SMA,C2480
+Zener12,D7,Diode_SMD:D_SMA,
+GREENLED,"D8,D10,D11",Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C84256
+BatteryIn+,J1,TestPoint:TestPoint_Plated_Hole_D3.5mm,
+brake1,J10,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,
+throttle,J11,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,
+hall,J12,Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical,
+brake2,J13,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,
+boost,J14,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,
+dispSPI,J15,Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical,
+BMS,J16,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,
+UART,J17,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,
+BatteryIn-,J2,TestPoint:TestPoint_Plated_Hole_D3.5mm,
+U,J3,TestPoint:TestPoint_Plated_Hole_D3.5mm,
+SCIn+ (24-48V),J4,TestPoint:TestPoint_Plated_Hole_D3.5mm,
+SCIn-,J5,TestPoint:TestPoint_Plated_Hole_D3.5mm,
+V,J6,TestPoint:TestPoint_Plated_Hole_D3.5mm,
+VIN (10-16V),J7,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,
+W,J8,TestPoint:TestPoint_Plated_Hole_D3.5mm,
+dispPwr,J9,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,
+4u,L1,Inductor_THT:L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3_BigPads,
+IRF3710,"Q1,Q2,Q3,Q4,Q5,Q6,Q8,Q9",Package_TO_SOT_THT:TO-220-3_Horizontal_TabUp_NoHoleClearance,
+2N7002,"Q7,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20",Package_TO_SOT_SMD:SOT-23,C8545
+10,R1,Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,
+200k,R15,Resistor_SMD:R_0805_2012Metric,
+100k,R17,Resistor_SMD:R_0805_2012Metric,
+10k,"R18,R21",Resistor_SMD:R_0805_2012Metric,
+1k,"R2,R3,R12,R16",Resistor_SMD:R_0805_2012Metric,
+47k,R22,Resistor_SMD:R_0805_2012Metric,C17713
+3400,R23,Resistor_SMD:R_0805_2012Metric,C18359
+470,"R24,R37,R38",Resistor_SMD:R_0805_2012Metric,C17710
+5k,R25,Resistor_SMD:R_0805_2012Metric,
+10m,R27,Resistor_SMD:R_0805_2012Metric,
+68,R28,Resistor_SMD:R_0805_2012Metric,C17802
+20k,R30,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C4328
+1.2m,"R31,R32,R33",Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,
+150,R34,Resistor_SMD:R_0805_2012Metric,C17471
+4.7k,"R35,R36",Resistor_SMD:R_0805_2012Metric,C17673
+2k,"R4,R5,R13,R20",Resistor_SMD:R_0805_2012Metric,
+10k,"R7,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17414
+47,R6,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17714
+100,"R8,R10,R14,R19,R26,R29",Resistor_SMD:R_0805_2012Metric,C17408
+40,"R9,R11",Resistor_SMD:R_0805_2012Metric,
+SW_MEC_5G,"SW1,SW2",Button_Switch_SMD:SW_SPST_EVPBF, C318884
+Thermistor_NTC_20k,TH1,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,
+FAN7382,"U1,U3,U7,U11",libraries i added:DIP762W52P254L1016H469Q8,
+AMS1117-3.3,U10,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C6186
+AMS1117-5.0,U12,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C6187
+ESP32-WROOM-32,U2,RF_Module:ESP32-WROOM-32,
+ACS712xLCTR-30A,"U4,U5,U8,U13",Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,
+CD4051B,U6,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,C21379
+LM555xM,U9,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,
